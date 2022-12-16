@@ -1,0 +1,22 @@
+.year1_card {
+  /* display: none; */
+}
+.yc_container {
+  display: flex;
+}
+
+form {
+  margin-top: 15px;
+}
+
+button {
+  float: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: stretch;
+  /* margin-left: 10px; */
+  margin-bottom: 10px;
+  width: 180px;
+  flex-wrap: wrap;
+}
